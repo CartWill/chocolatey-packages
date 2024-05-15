@@ -9,6 +9,7 @@
     <title>Tableau Prep Builder</title>
     <authors>Tableau Software, LLC.</authors>
     <projectUrl>https://www.tableau.com/</projectUrl>
+    <iconUrl>https://cdn.jsdelivr.net/gh/CartWill/chocolatey-packages@a62e7261318b468275a7a9ba11b4a1119e139021/automatic/Tableau-Prep-Builder/icon.png</iconUrl>
     <copyright>© 2003-2020 Tableau Software, LLC, A Salesforce Company. All Rights Reserved.</copyright>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <tags>tableau data visualization charts business intelligence</tags>
