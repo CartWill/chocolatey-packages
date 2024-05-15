@@ -9,6 +9,7 @@
     <title>Tableau Desktop</title>
     <authors>Tableau Software, LLC.</authors>
     <projectUrl>https://www.tableau.com/</projectUrl>
+    <iconUrl>https://cdn.jsdelivr.net/gh/CartWill/chocolatey-packages@master/automatic/Tableau-Desktop/icon.png</iconUrl>
     <copyright>© 2003-2020 Tableau Software, LLC, A Salesforce Company. All Rights Reserved.</copyright>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <tags>tableau data visualization charts business intelligence</tags>
